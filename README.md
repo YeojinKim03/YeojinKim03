@@ -22,6 +22,7 @@
    -->
 </div>
 <br>
+<br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<br>
 <br>
 <div align=center>
 	<p>🎨 SNS 🎨</p>
