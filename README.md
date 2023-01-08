@@ -44,10 +44,13 @@
 	<a href="mailto:yeojin.r.kim@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<!-- 
+	<!-- 노션은 아직 주석처리함
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	-->
+	</a>
+	<a href="https://www.linkedin.com/in/yeojinkim03/">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
 	</a>
 	<br>
 
