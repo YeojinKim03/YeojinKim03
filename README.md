@@ -24,7 +24,7 @@
 <br>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>📌 Tools 📌</p>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -35,7 +35,7 @@
 <br>
 <br>
 <div align=center>
-	<p>🎨 SNS 🎨</p>
+	<p>💡 ME 💡</p>
 </div>
 <div align=center>
 	<a href="https://we-nna.tistory.com/">
@@ -57,6 +57,7 @@
 </div>
 
 <div align=center>
+
 	
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
 
